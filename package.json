@@ -1,0 +1,16 @@
+{
+  "name": "localwebapp",
+  "version": "1.0.0",
+  "description": "Job project",
+  "dependencies": {
+    "ejs": "^1.0.0",
+    "express": "^4.16.3",
+    "web3": "^0.20.6"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "main": "index.js",
+  "author": "Ilya Ivantsov",
+  "license": "MIT"
+}
